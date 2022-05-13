@@ -115,7 +115,7 @@ input,button {
   width: 226px;
 }
 .list .input-task {
-  width: 226px
+  width: 226px;
 }
 .delete .img {
   height: 2em;
@@ -128,7 +128,7 @@ input,button {
 
 /* Completed */
 #completed-tasks .label-task {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
@@ -136,7 +136,7 @@ input,button {
 
 .edit-mode .input-task {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .edit-mode .label-task {
