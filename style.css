@@ -28,6 +28,10 @@
 
 }
 
+.top {
+  margin-bottom: 1em;
+}
+
 .main-block {
   display: block;
   width: 500px;
