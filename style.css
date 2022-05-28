@@ -113,7 +113,7 @@
   margin: 0 0 20px;
 }
 
-.add-block__input--new-task {
+.add-block__input {
   width: 318px;
   display: inline-block;
   box-sizing: border-box;
@@ -129,10 +129,6 @@
   align-items: center;
   list-style: none;
 }
-
-/*.list > * {
-  vertical-align: middle;
-}*/
 
 .task-block__checkbox {
   margin: 0 10px;
@@ -168,7 +164,7 @@
   display: none;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
   .header {
     text-align: center;
